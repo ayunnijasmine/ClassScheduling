@@ -1,9 +1,9 @@
 // Implementation of Priority scheduling algorithm
 /* Priority scheduling
 Group members:
-Muhamad Asri bin Md Isa							1621211
+Muhamad Asri bin Md Isa				1621211
 Ayunni Jasmine binti Abdul Aziz @ Muhiyiddin	1816714
-Nur Farah Atiqah binti Mohd Zahid				1817356 */
+Nur Farah Atiqah binti Mohd Zahid		1817356 */
 
 #include<bits/stdc++.h>
 using namespace std;
