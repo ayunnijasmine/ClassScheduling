@@ -14,7 +14,7 @@ In FCFS, the process mainly focus on its queue in the array given because its pr
 
 ## SJF
 
-In SJF, the duration or burst time is the main focus, which means that the process with the shortest duration will be scheduled first. This can be clearly seen in which the subject with the duration of 1 hour will get scheduled first, followed by classes with the durations of 2 and 3 hours respectively. The SJF scheduling algorithm is proven as the best Class Scheduling soltuion compared to other two algorithms because of its shortest time of average waiting time and turn around time. 
+In SJF, the duration or burst time is the main focus, which means that the process with the shortest duration will be scheduled first. This can be clearly seen in which the subject with the duration of 1 hour will get scheduled first, followed by classes with the durations of 2 and 3 hours respectively. The SJF scheduling algorithm is proven as the best Class Scheduling solution compared to other two algorithms because of its shortest time of average waiting time and turn around time. 
 
 ## Priority
 
