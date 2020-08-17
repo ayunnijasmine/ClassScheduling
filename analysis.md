@@ -10,15 +10,12 @@ In this Class Scheduling Assignment, we are considering in finding the optimum c
 
 ## FCFS
 
-Give an analysis of your algo and compare it with the other two
+In FCFS, the process mainly focus on its queue in the array given because its process priority does not matter. The average waiting time and turn around time are the highest compared to other two algorithms which can be concluded that FCFS scheduling may take a bit of longer time for the process to be completed. This shows that for the best Class Scheduling solution FCFS are the least algorithm should be implemented compared to SJF and Priority schedulings. 
 
 ## SJF
 
-In SJF, the duration or burst time is the main focus, which means that the process with the shortest duration will be scheduled first. This can be clearly seen in which the subject with the duration of 1 hour will get scheduled first, followed by classes with the durations of 2 and 3 hours respectively.
-In comparison with FCFS, which essentially focuses on the arrival time, the processes will be scheduled not according to their duration, but instead depends on which one arrives first. The other processes will have to wait regardless of their duration.
-Meanwhile, in Priority Scheduling, the priority for each process is already set, which basically means neither the duration nor the arrival time will be considered here, as the processes will be scheduled according to their priority numbers.
+In SJF, the duration or burst time is the main focus, which means that the process with the shortest duration will be scheduled first. This can be clearly seen in which the subject with the duration of 1 hour will get scheduled first, followed by classes with the durations of 2 and 3 hours respectively. The SJF scheduling algorithm is proven as the best Class Scheduling soltuion compared to other two algorithms because of its shortest time of average waiting time and turn around time. 
 
-## Algo3
+## Priority
 
-Give an analysis of your algo and compare it with the other two
-
+In Priority Scheduling, it depends on the process priority which differentiates it with the other two algorithms. It prioritize which process is high priority and this is proven from the average waiting time and turn around time are not that low or high which can be seen it is in between the average waiting time and turn around time of FCFS and SJF scheduling. Priority scheduling can be considered in order to choose the one of the best Class Scheduling solution to speed up the completion of process scheduling.
