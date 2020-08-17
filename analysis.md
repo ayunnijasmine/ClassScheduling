@@ -14,9 +14,9 @@ Give an analysis of your algo and compare it with the other two
 
 ## SJF
 
-  In SJF, the duration or burst time is the main focus, which means that the process with the shortest duration will be scheduled first. This can be clearly seen in which the subject with the duration of 1 hour will get scheduled first, followed by classes with the durations of 2 and 3 hours respectively.
-	In comparison with FCFS, which essentially focuses on the arrival time, the processes will be scheduled not according to their duration, but instead depends on which one arrives first. The other processes will have to wait regardless of their duration.
-	Meanwhile, in Priority Scheduling, the priority for each process is already set, which basically means neither the duration nor the arrival time will be considered here, as the processes will be scheduled according to their priority numbers.
+In SJF, the duration or burst time is the main focus, which means that the process with the shortest duration will be scheduled first. This can be clearly seen in which the subject with the duration of 1 hour will get scheduled first, followed by classes with the durations of 2 and 3 hours respectively.
+In comparison with FCFS, which essentially focuses on the arrival time, the processes will be scheduled not according to their duration, but instead depends on which one arrives first. The other processes will have to wait regardless of their duration.
+Meanwhile, in Priority Scheduling, the priority for each process is already set, which basically means neither the duration nor the arrival time will be considered here, as the processes will be scheduled according to their priority numbers.
 
 ## Algo3
 
