@@ -1,8 +1,8 @@
 /* SJF scheduling
 Group members:
-Ayunni Jasmine binti Abdul Aziz @ Muhiyiddin	1816714
-Nur Farah Atiqah binti Mohd Zahid				1817356
-Muhamad Asri bin Md Isa							1621211 */
+Ayunni Jasmine binti Abdul Aziz @ Muhiyiddin	 1816714
+Nur Farah Atiqah binti Mohd Zahid				         1817356
+Muhamad Asri bin Md Isa						                	1621211 */
 
 #include<bits/stdc++.h>
 
