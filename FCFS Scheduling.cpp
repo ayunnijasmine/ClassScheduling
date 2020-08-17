@@ -1,8 +1,8 @@
 /* FCFS scheduling (modified) 
 Group Members:
-Nur Farah Atiqah bt Mohd Zahid 				1817356
+Nur Farah Atiqah bt Mohd Zahid 			1817356
 Ayunni Jasmine bt Abdul Aziz @ Muhyiddin 	1816714
-Muhamad Asri b Md Isa 						1621211 */
+Muhamad Asri b Md Isa 				1621211 */
 
 #include <iostream>
 
